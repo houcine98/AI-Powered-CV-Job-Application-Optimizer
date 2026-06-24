@@ -38,7 +38,7 @@ export default function RegisterPage() {
         <p className="text-sm uppercase tracking-[0.3em] text-brand-100/80">Create Account</p>
         <h1 className="mt-4 text-4xl font-semibold tracking-tight text-white">Build a private job application command center.</h1>
         <p className="mt-4 text-slate-300">
-          The first registered account becomes an administrator automatically. More admin emails can be allowed with the backend ADMIN_EMAILS setting.
+          Create your secure workspace to generate tailored CVs, cover letters, and LaTeX resume PDFs from one private dashboard.
         </p>
       </div>
       <form onSubmit={handleSubmit} className="glass-panel rounded-3xl p-6">
