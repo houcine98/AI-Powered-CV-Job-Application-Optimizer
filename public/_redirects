@@ -1,4 +1,0 @@
-/login        /index.html    200
-/register     /index.html    200
-/admin        /index.html    200
-/results/*    /index.html    200
